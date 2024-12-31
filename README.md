@@ -3,7 +3,7 @@
 <div align="justify">
 My name is Mojtaba, and I’m passionate about web development.
 </div>
-<br/>
+
 # 🔧 Technologies & Tools
 
 <table>
