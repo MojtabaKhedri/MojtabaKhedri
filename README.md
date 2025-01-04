@@ -15,7 +15,8 @@
         height="48"
         alt="MarkDown-language"
       />
-      <br /><strong>MarkDown</strong>
+      <br>
+        <strong>MarkDown</strong>
     </td>
   </tr>
 </table>
