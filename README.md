@@ -15,6 +15,9 @@
     <td align="center" height="108" width="108">
       <img src="https://www.svgrepo.com/show/452228/html-5.svg">
     </td>
+    <td align="center" height="108" width="108">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png">
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -22,6 +25,9 @@
     </td>
     <td align="center">
       <strong>HTML</strong>
+    </td>
+    <td align="center">
+      <strong>CSS</strong>
     </td>
   </tr>
 </table>
